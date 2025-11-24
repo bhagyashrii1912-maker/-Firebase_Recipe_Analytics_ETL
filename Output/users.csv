@@ -1,0 +1,9 @@
+user_id,name,email,age,location,created_at
+u_01,Bhagyashri,bhagyashri@example.com,23,India,
+u_02,Aarav,aarav@example.com,28,India,
+u_03,Maya,maya@example.com,22,India,
+u_04,Rohan,rohan@example.com,31,India,
+u_05,Sana,sana@example.com,27,India,
+u_06,Vikram,vikram@example.com,35,India,
+u_07,Isha,isha@example.com,24,India,
+u_08,Karan,karan@example.com,29,India,

@@ -1,0 +1,9 @@
+with open("analytics_report.txt", "w") as f:
+    f.write("Most Common Ingredients:\n")
+    f.write(str(common_ing) + "\n\n")
+
+    f.write("Average Prep Time:\n")
+    f.write(str(avg_prep) + "\n\n")
+
+    # Add all insights similarly…
+

@@ -1,0 +1,22 @@
+recipe_id,name,description,prep_time,difficulty,cuisine,created_by
+r_02,Cheesy Mac 1,Synthetic recipe for testing.,20,hard,Indian,u_01
+r_03,Veg Delight 2,Synthetic recipe for testing.,32,easy,Fusion,u_03
+r_04,Tomato Basil 3,Synthetic recipe for testing.,18,hard,Fusion,u_01
+r_05,Mushroom Pasta 4,Synthetic recipe for testing.,32,medium,Indian,u_04
+r_06,Tomato Basil 5,Synthetic recipe for testing.,18,easy,Fusion,u_01
+r_07,Cheesy Mac 6,Synthetic recipe for testing.,30,medium,Fusion,u_01
+r_08,Mushroom Pasta 7,Synthetic recipe for testing.,37,hard,Italian,u_06
+r_09,Tomato Basil 8,Synthetic recipe for testing.,10,easy,Fusion,u_02
+r_10,Mushroom Pasta 9,Synthetic recipe for testing.,17,easy,Fusion,u_06
+r_11,Veg Delight 10,Synthetic recipe for testing.,34,hard,Fusion,u_01
+r_12,Aglio Olio 11,Synthetic recipe for testing.,28,hard,Indian,u_03
+r_13,Cheesy Mac 12,Synthetic recipe for testing.,34,medium,Fusion,u_06
+r_14,Mushroom Pasta 13,Synthetic recipe for testing.,25,easy,Fusion,u_04
+r_15,Cheesy Mac 14,Synthetic recipe for testing.,30,hard,Italian,u_02
+r_16,Aglio Olio 15,Synthetic recipe for testing.,25,easy,Fusion,u_04
+r_17,Cheesy Mac 16,Synthetic recipe for testing.,28,medium,Indian,u_06
+r_18,Aglio Olio 17,Synthetic recipe for testing.,10,hard,Fusion,u_05
+r_19,Tomato Basil 18,Synthetic recipe for testing.,10,medium,Fusion,u_06
+r_20,Mushroom Pasta 19,Synthetic recipe for testing.,22,hard,Fusion,u_01
+r_21,Aglio Olio 20,Synthetic recipe for testing.,16,hard,Indian,u_07
+r_user_01,Comfort Pasta,Simple pasta with veggies and cheese.,25,easy,Italian,u_01

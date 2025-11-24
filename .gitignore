@@ -1,0 +1,8 @@
+# Ignore Firebase service account keys
+ServiceAccountKey.json
+ServiceAccountKey.Json.json
+*.json
+Scripts/ServiceAccountKey.json
+Scripts/ServiceAccountKey.Json.json
+firestore-seed/Scripts/ServiceAccountKey.json
+firestore-seed/Scripts/ServiceAccountKey.Json.json

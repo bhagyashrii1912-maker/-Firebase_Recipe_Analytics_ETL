@@ -1,0 +1,68 @@
+recipe_id,step_number,step_text
+r_02,1,Boil pasta
+r_02,2,Prepare veggies
+r_02,3,Mix pasta and serve
+r_03,1,Boil pasta
+r_03,2,Prepare veggies
+r_03,3,Mix pasta and serve
+r_04,1,Boil pasta
+r_04,2,Prepare veggies
+r_04,3,Mix pasta and serve
+r_05,1,Boil pasta
+r_05,2,Prepare veggies
+r_05,3,Mix pasta and serve
+r_06,1,Boil pasta
+r_06,2,Prepare veggies
+r_06,3,Mix pasta and serve
+r_07,1,Boil pasta
+r_07,2,Prepare veggies
+r_07,3,Mix pasta and serve
+r_08,1,Boil pasta
+r_08,2,Prepare veggies
+r_08,3,Mix pasta and serve
+r_09,1,Boil pasta
+r_09,2,Prepare veggies
+r_09,3,Mix pasta and serve
+r_10,1,Boil pasta
+r_10,2,Prepare veggies
+r_10,3,Mix pasta and serve
+r_11,1,Boil pasta
+r_11,2,Prepare veggies
+r_11,3,Mix pasta and serve
+r_12,1,Boil pasta
+r_12,2,Prepare veggies
+r_12,3,Mix pasta and serve
+r_13,1,Boil pasta
+r_13,2,Prepare veggies
+r_13,3,Mix pasta and serve
+r_14,1,Boil pasta
+r_14,2,Prepare veggies
+r_14,3,Mix pasta and serve
+r_15,1,Boil pasta
+r_15,2,Prepare veggies
+r_15,3,Mix pasta and serve
+r_16,1,Boil pasta
+r_16,2,Prepare veggies
+r_16,3,Mix pasta and serve
+r_17,1,Boil pasta
+r_17,2,Prepare veggies
+r_17,3,Mix pasta and serve
+r_18,1,Boil pasta
+r_18,2,Prepare veggies
+r_18,3,Mix pasta and serve
+r_19,1,Boil pasta
+r_19,2,Prepare veggies
+r_19,3,Mix pasta and serve
+r_20,1,Boil pasta
+r_20,2,Prepare veggies
+r_20,3,Mix pasta and serve
+r_21,1,Boil pasta
+r_21,2,Prepare veggies
+r_21,3,Mix pasta and serve
+r_user_01,1,Boil water with salt.
+r_user_01,2,Cook pasta for 10â€“12 minutes.
+r_user_01,3,SautÃ© onions until golden.
+r_user_01,4,Add vegetables and stir for 3â€“4 minutes.
+r_user_01,5,Add spices + tomato sauce.
+r_user_01,6,Mix pasta and cook for 5 minutes.
+r_user_01,7,Serve with cheese.

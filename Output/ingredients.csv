@@ -1,0 +1,55 @@
+recipe_id,ingredient_name,quantity
+r_02,pasta,100g
+r_02,spinach,50g
+r_03,pasta,100g
+r_03,garlic,50g
+r_04,pasta,100g
+r_04,tomato,50g
+r_05,pasta,100g
+r_05,tomato,50g
+r_06,pasta,100g
+r_06,paneer,50g
+r_07,pasta,100g
+r_07,garlic,50g
+r_08,pasta,100g
+r_08,spinach,50g
+r_09,pasta,100g
+r_09,spinach,50g
+r_10,pasta,100g
+r_10,tomato,50g
+r_11,pasta,100g
+r_11,spinach,50g
+r_12,pasta,100g
+r_12,spinach,50g
+r_13,pasta,100g
+r_13,garlic,50g
+r_14,pasta,100g
+r_14,garlic,50g
+r_15,pasta,100g
+r_15,spinach,50g
+r_16,pasta,100g
+r_16,garlic,50g
+r_17,pasta,100g
+r_17,tomato,50g
+r_18,pasta,100g
+r_18,garlic,50g
+r_19,pasta,100g
+r_19,spinach,50g
+r_20,pasta,100g
+r_20,garlic,50g
+r_21,pasta,100g
+r_21,paneer,50g
+r_user_01,pasta,120g
+r_user_01,water,750ml
+r_user_01,salt,1 tsp
+r_user_01,oil,1 tbsp
+r_user_01,onion,1 medium
+r_user_01,tomato,1 medium
+r_user_01,capsicum,1/2
+r_user_01,carrot,1 small
+r_user_01,pasta masala,1 tsp
+r_user_01,chilli flakes,1 tsp
+r_user_01,red chilli powder,1 tsp
+r_user_01,tomato sauce,2 tbsp
+r_user_01,turmeric,1/4 tsp
+r_user_01,cheese,2 tbsp
